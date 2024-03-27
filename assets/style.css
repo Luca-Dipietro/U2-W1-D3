@@ -73,11 +73,8 @@ header ul {
 }
 
 .aside-container {
-  background-color: lightgoldenrodyellow;
   width: 95%;
-  border-radius: 20px;
   margin-inline: auto;
-  padding: 20px;
 }
 
 aside img {
@@ -86,4 +83,16 @@ aside img {
 
 aside h3 {
   margin: 0;
+}
+
+.aside-box {
+  background-color: lightgoldenrodyellow;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+aside h2 {
+  margin: 0;
+  margin-top: 40px;
+  margin-bottom: 10px;
 }
