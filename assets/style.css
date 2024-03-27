@@ -73,12 +73,17 @@ header ul {
 }
 
 .aside-container {
-  padding: 10px;
   background-color: lightgoldenrodyellow;
-  border: 1px solid lightgoldenrodyellow;
-  width: 100%;
+  width: 95%;
+  border-radius: 20px;
+  margin-inline: auto;
+  padding: 20px;
 }
 
 aside img {
   max-width: 100%;
+}
+
+aside h3 {
+  margin: 0;
 }
